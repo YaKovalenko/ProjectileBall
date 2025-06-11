@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9fc0d4010bbf28b4594072e72b8655ab
-DefaultImporter:
+guid: 4806b64503d3b1a4fa1643b0baaa05be
+PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 299354
   packageName: 3D Low Poly Environment Assets
   packageVersion: 1.0
-  assetPath: Assets/Scenes/SampleScene.unity
+  assetPath: Assets/3D Enivronment Assets/Prefabs/IcePrefabs/IceRock_03.prefab
   uploadId: 705512

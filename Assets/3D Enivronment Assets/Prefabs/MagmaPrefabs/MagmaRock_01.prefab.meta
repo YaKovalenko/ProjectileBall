@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9fc0d4010bbf28b4594072e72b8655ab
-DefaultImporter:
+guid: eb18e7824f048f248884dc809e9991a3
+PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
@@ -10,5 +10,5 @@ AssetOrigin:
   productId: 299354
   packageName: 3D Low Poly Environment Assets
   packageVersion: 1.0
-  assetPath: Assets/Scenes/SampleScene.unity
+  assetPath: Assets/3D Enivronment Assets/Prefabs/MagmaPrefabs/MagmaRock_01.prefab
   uploadId: 705512
